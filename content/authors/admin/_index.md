@@ -47,6 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:Hanchao.Zhang@aol.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tedddddy_zhang

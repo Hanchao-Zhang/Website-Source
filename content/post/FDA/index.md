@@ -10,8 +10,10 @@ image:
 links:
 url_pdf: ./files/post1.pdf
 url_code: 'https://github.com/Hanchao-Zhang/calibration_and_discrimination_Functional_Data_Analysis'
-url_poster: './files/posterpost1.html'
+url_poster: 'https://github.com/Hanchao-Zhang/AUC-FDA'
+
 ---
+
 
 
 ## 1. Introduction
