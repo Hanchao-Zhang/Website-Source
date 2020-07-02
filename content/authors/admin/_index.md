@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student of Biostatistics
+role: Ph.D. Student of Biostatistics, <a href="https://nyu-medicine-cssa.github.io/"> President of CSSA</a>
 
 # Organizations/Affiliations
 organizations:
@@ -24,6 +24,7 @@ interests:
 - Functional Data Analysis
 - Machine Learning
 - Microbiome
+- Missing Data 
 
 
 education:
@@ -31,12 +32,15 @@ education:
   - course: Ph.D. in Biostatistics
     institution: New York University
     year: Present
-  - course: M.S. in Biostatistics and Data Science
+  - course: M.S. in Biostatistics
     institution: Cornell University
     year: 2018
-  - course: B.A. in International Finance and Statistics
+  - course: B.A. in Statistics
     institution: Capital University of Economics and Business
-    year: 2013
+    year: 2017
+  - course: B.A. in International Finance
+    institution: Capital University of Economics and Business
+    year: 2017
 
 
 # Social/Academic Networking
