@@ -24,7 +24,7 @@ interests:
 - Functional Data Analysis
 - Machine Learning
 - Microbiome
-- Missing Data 
+- Missing Data
 
 
 education:
@@ -53,7 +53,7 @@ social:
   link: 'mailto:Hanchao.Zhang@aol.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/'
+  link: 'https://www.linkedin.com/in/hanchao-zhang-670105b7/'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tedddddy_zhang
@@ -79,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-Hanchao Zhang is a second year Ph.D. student in the Biostatistics Division at Department of Population Health, Sackler institute of Biomedical Sciences, New York University, Grossman School of Medicine.
+Hanchao Zhang is a second year Ph.D. student in the Biostatistics Division at Department of Population Health, Sackler institute of Biomedical Sciences, Grossman School of Medicine, New York University.
