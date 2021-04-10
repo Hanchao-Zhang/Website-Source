@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "News"
@@ -18,6 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Started Fourth Rotation"
+  company = "Biostatistics Division, Sackler Institute of Biomeidcal Sciences, New York University"
+  company_url = "https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/"
+  location = "New York"
+  date_start = "2020-08-12"
+  date_end = ""
+  description = """
+  Adivsor Dr. <a href="http://samrachana.com/" target="_blank">Samrachana Adhikari</a>
+  """
+
+
+[[experience]]
+  title = "Collaboration Work is Published on Journal of Cosmetic Dermatology"
+  company = "*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*"
+  company_url = "https://onlinelibrary.wiley.com/doi/full/10.1111/jocd.13486"
+  location = ""
+  date_start = "2020-05-15"
+  date_end = "2020-05-15"
+  description = """
+  Paper <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jocd.13486" target="_blank">Link</a>
+  """
+
 
 [[experience]]
   title = "Started My Third Rotation"
@@ -25,7 +48,7 @@ date_format = "Jan 2006"
   company_url = "https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/"
   location = "New York"
   date_start = "2020-04-05"
-  date_end = ""
+  date_end = "2020-08-10"
   description = """
   Adivsor Dr. <a href="https://med.nyu.edu/faculty/andrea-b-troxel" target="_blank">Andrea B. Troxel</a>
   """
@@ -78,7 +101,7 @@ date_format = "Jan 2006"
   date_start = "2018-09-02"
   date_end = "2019-07-01"
   description = """
-  
+
   Adivsor Dr. <a href="https://www.stephaniehicks.com/" target="_blank">Stephanie Hicks</a>  
 
   """
@@ -93,7 +116,7 @@ date_format = "Jan 2006"
   date_start = "2017-08-30"
   date_end = "2018-09-01"
   description = """
-  
+
   Master Project Advisor Dr. <a href="https://www.idiaz.xyz/" target="_blank">Ivan Diaz</a>
   """
 

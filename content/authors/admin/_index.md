@@ -10,21 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student of Biostatistics, <a href="https://nyu-medicine-cssa.github.io/"> President of CSSA</a>
+role: Ph.D. Student of Biostatistics, President of <a href="https://nyu-medicine-cssa.github.io/" target="_blank"> CSSA</a> at
 
 # Organizations/Affiliations
 organizations:
-- name: New York University
-  url: "https://www.nyu.edu/"
+- name: New York University Grossman School of Medicine
+  url: "https://med.nyu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning, Functional Data Analysis, Microbiome, and Behavioral Economics.
 
 interests:
-- Functional Data Analysis
 - Machine Learning
-- Microbiome
+- Functional Data Analysis
+- Imaging Data
 - Missing Data
+- Microbiome
 
 
 education:
@@ -51,18 +52,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:Hanchao.Zhang@aol.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: 'https://www.linkedin.com/in/hanchao-zhang-670105b7/'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/tedddddy_zhang
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Hanchao-Zhang
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=bePCCD8AAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/tedddddy_zhang
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -79,4 +82,9 @@ user_groups:
 - Visitors
 ---
 
-Hanchao Zhang is a second year Ph.D. student in the Biostatistics Division at Department of Population Health, Sackler institute of Biomedical Sciences, Grossman School of Medicine, New York University.
+
+**Hanchao Zhang is a second year Ph.D. student in the <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics Division</a> at Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>, <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Sackler institute of Biomedical Sciences</a>, <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, <a href="https://www.nyu.edu/" target="_blank"> New York University</a>.**
+
+
+
+**Hanchao Zhang is a alumnus of <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>**

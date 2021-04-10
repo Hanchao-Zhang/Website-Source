@@ -29,15 +29,17 @@
   url = "courses/"
   weight = 50
 
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 80
 
 [[main]]
   name = "Etcetera"
   url = "etcetera/"
   weight = 70
+
+
 
 
 

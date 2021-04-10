@@ -13,10 +13,13 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "nyu"
+theme = "nyu2"##nyu
 
 # Enable users to switch between day and night mode?
 day_night = true
+
+# logo of the website, use to replace the title of the website
+logo='logo.png'
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -26,7 +29,7 @@ font = "hanchao"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -292,3 +295,6 @@ plugins_js  = []
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
+
+[icon.pack]
+  ai = true

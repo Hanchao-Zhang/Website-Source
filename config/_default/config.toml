@@ -8,6 +8,7 @@
 # Title of your site
 title = "Hanchao Zhang (张瀚潮)"
 
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://hanchao-zhang.github.io/"
@@ -20,8 +21,10 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
+
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -38,12 +41,22 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+# FLIP additional
+  #watermark = "background/Bundle2.jpg" # relative to `static/img/` folder)
+  #footmark = "background/feynmanfooter.png"
+  #numitems = "3" # number of recent items to show, e.g. recent and upcoming classes
+  #arXivID = "tanedo_p_1"
+
+#custom_css = ["green.css", "flip2017.css", "cryptedmail.css"]
+#custom_js  = []
+
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
   authors = "/author/:slug/"
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
+
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
