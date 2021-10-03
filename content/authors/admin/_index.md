@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include Machine Learning, Functional Data Analysis, Microbiome, and Behavioral Economics.
 
 interests:
-- Machine Learning
-- Functional Data Analysis
+- Semi-supervised Learning
+- Fairness Machine Learning
+- Functional Data
 - Imaging Data
-- Missing Data
-- Microbiome
+- 3D Surface Modeling 
 
 
 education:
@@ -83,7 +83,7 @@ user_groups:
 ---
 
 
-**Hanchao Zhang is a second year Ph.D. student in the <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics Division</a> at Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>, <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Sackler institute of Biomedical Sciences</a>, <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, <a href="https://www.nyu.edu/" target="_blank"> New York University</a>.**
+**Hanchao Zhang is a third year Ph.D. student in the <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics Division</a> at Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>, <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a>, <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, <a href="https://www.nyu.edu/" target="_blank"> New York University</a>.**
 
 
 

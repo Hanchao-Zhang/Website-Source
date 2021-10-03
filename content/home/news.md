@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Invited Paper Session"
+  company = "Joint Statistical Meeting 2021"
+  company_url = "https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317415"
+  location = "New York"
+  date_start = "2021-08-12"
+  date_end = ""
+  description = """
+  Adivsor Dr. <a href="http://samrachana.com/" target="_blank">Samrachana Adhikari</a>
+  """
+  
+[[experience]]
   title = "Started Fourth Rotation"
   company = "Biostatistics Division, Sackler Institute of Biomeidcal Sciences, New York University"
   company_url = "https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/"
@@ -26,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-08-12"
   date_end = ""
   description = """
-  Adivsor Dr. <a href="http://samrachana.com/" target="_blank">Samrachana Adhikari</a>
+  Adivsor Dr. <a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank">Thaddeus Tarpey</a>
   """
 
 
